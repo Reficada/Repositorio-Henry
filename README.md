@@ -1,2 +1,1 @@
-# Repositorio-Henry
-Esto es de ejercicios Henry
+Haciendo el ejercicios de Course Henry :D
